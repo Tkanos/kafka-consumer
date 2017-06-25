@@ -1,0 +1,1 @@
+protoc myServiceMessage.proto --go_out=./../myService/ -I./

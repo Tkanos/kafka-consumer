@@ -1,0 +1,4 @@
+APP_PORT="8080"
+KAFKA_TOPIC="my-service"
+KAFKA_BROKERS="localhost:9092"
+ZIPKIN_URI="http://localhost:9411/api/v1/spans"
