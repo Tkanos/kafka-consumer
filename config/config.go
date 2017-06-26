@@ -6,8 +6,6 @@ import (
 	"github.com/spf13/viper"
 )
 
-const cct = "CustomersChangesTracking"
-
 // AppConfig represents the application-side configurations.
 type AppConfig struct {
 	Port         int    `mapstructure:"APP_PORT"`
